@@ -1,0 +1,17 @@
+@import url("/css/reset.css");
+
+body {
+    background-color: black;
+    color: white;
+}
+
+
+main {
+    display: flex;
+}
+
+
+.background-img {
+
+   background-image:url("../img/kobu-agency-ipARHaxETRk-unsplash.jpg");
+}
